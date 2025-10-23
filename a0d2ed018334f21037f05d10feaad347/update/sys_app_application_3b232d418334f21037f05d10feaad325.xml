@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Education</description>
+        <device_type>browser</device_type>
+        <hint>Education</hint>
+        <name/>
+        <order/>
+        <roles>x_1607440_educorg.device_management,x_1607440_educorg.dispatch_management,x_1607440_educorg.end_user,x_1607440_educorg.release_management</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-23 09:35:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3b232d418334f21037f05d10feaad325</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Educorg</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Educorg" source="x_1607440_educorg">a0d2ed018334f21037f05d10feaad347</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Educorg">a0d2ed018334f21037f05d10feaad347</sys_scope>
+        <sys_update_name>sys_app_application_3b232d418334f21037f05d10feaad325</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 09:35:30</sys_updated_on>
+        <title>Educorg</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
